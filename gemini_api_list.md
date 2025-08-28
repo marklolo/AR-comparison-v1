@@ -1,6 +1,0 @@
-gemin_api_for_rotation
-
-mark: AIzaSyBDl-U5ZeyC4ZNDrbOCtjbC2dy7hd6IxB0
-aihero: AIzaSyDnP52kEc2adwetbY3VoMzF4GVfR-58veM
-urmarkus: AIzaSyCAw9E7xYSH5mwF2GC3bNfrahTQUsCrVOQ
-happy: AIzaSyDb9AHrt0E2KAjVkz3hAvoVC1fyDrbOcMA
